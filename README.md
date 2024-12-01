@@ -23,7 +23,7 @@ This project involves building a **Data Warehouse** and implementing a real-time
 1. **Data Warehouse Design**  
    - A Data Warehouse was designed using **SQL Server**, following a star schema to optimize query performance for reporting.  
   
-(https://github.com/thaikun203/DE-project-2/blob/6cd7df5804418ca1335c4ba5e5208328d01b5af2/dw.sql)
+   (https://github.com/thaikun203/DE-project-2/blob/6cd7df5804418ca1335c4ba5e5208328d01b5af2/dw.sql)
 2. **ETL Process with SSIS**  
    - Workflows were created in **SSIS** to extract, transform, and load (ETL) data in real-time.  
    - Data sources include APIs and flat files, which are processed and stored in the Data Warehouse.  
