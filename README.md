@@ -28,7 +28,7 @@ This project involves building a **Data Warehouse** and implementing a real-time
    - Workflows were created in **SSIS** to extract, transform, and load (ETL) data in real-time.  
    - Data sources include APIs and flat files, which are processed and stored in the Data Warehouse.  
   
-   (https://github.com/thaikun203/DE-project-2/blob/6cd7df5804418ca1335c4ba5e5208328d01b5af2/workflow.png)
+   ![Alt text](https://github.com/thaikun203/DE-project-2/blob/6cd7df5804418ca1335c4ba5e5208328d01b5af2/workflow.png)
 
 3. **Real-Time Data Processing**  
    - **SSIS** workflows were configured to handle and process real-time data streams effectively, ensuring data quality and timeliness.
@@ -36,7 +36,7 @@ This project involves building a **Data Warehouse** and implementing a real-time
 4. **Power BI Reports**  
    - Data from the warehouse was visualized in **Power BI**, offering interactive dashboards and key performance indicators (KPIs).  
   
-   (https://github.com/thaikun203/DE-project-2/blob/6cd7df5804418ca1335c4ba5e5208328d01b5af2/report.png)
+   ![Alt text](https://github.com/thaikun203/DE-project-2/blob/6cd7df5804418ca1335c4ba5e5208328d01b5af2/report.png)
 
 ## **How to Run the Project**
 1. **Prerequisites**:
